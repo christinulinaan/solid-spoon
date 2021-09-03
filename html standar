@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+    <!-- Tag Tunggal -->
+	<img src="IMG_20210627_173504_544.jpg"
+	    style="width:300px;height:auto;">
+	<p>Nama: Christin Ulina Angeline Napitupulu</p>
+	<p>Nim: 2005191025</p>
+	<input type="" >
+	<hr>
+	<br>
+
+	<!-- Tag Berpasangan -->
+	<div>Ini Div</div>
+	<span>Ini Span</span>
+	<p>Ini Paragraph</p>
+	<h1>Ini Heading 1</h1>
+	<h2>Ini Heading 2</h2>
+	<h3>Ini Heading 3</h3>
+	<h4>Ini Heading 4</h4>
+	<h5>Ini Heading 5</h5>
+	<h6>Ini Heading 6</h6>
+	<b></b>
+	<em></em>
+	<i></i>
+	<u></u>
+	<strong></strong>
+	<canvas></canvas>
+	<video></video>
+	<audio></audio>
+	<custom></custom>
+	
+	
+	<!-- Tag Bersarang -->
+	<table>
+	    <thead>
+		    <tr>
+			    <th>No.</th>
+				<th>Nama</th>
+				<th>Alamat</th>
+			</tr>
+		</thead>
+		<tbody>
+		    <tr>
+			    <td>1.</td>
+				<td>Christin</td>
+				<td>Lingkkungan VII Sei Mati</td>
+			</tr>
+			<tr>
+			    <td>2.</td>
+				<td>Andi</td>
+				<td>Jl. Andinegoro</td>
+			</tr>
+			<tr>
+			    <td>3.</td>
+				<td>Budi</td>
+				<td>Jl. Budinegoro</td>
+		</body>
+	</table>
+	</ul>
+	    <li>Un ordered list 1</li>
+	    <li>Un ordered list 2</li>
+		<li>Un ordered list 3</li>
+	</ul>
+	<ol>
+	    <li>Ordered list 1</li>
+	    <li>Ordered list 2</li>
+		<li>Ordered list 3</li>
+	</ol>
+</body>
+</html>
